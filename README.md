@@ -24,3 +24,4 @@ A simple Bash script to inspect basic Linux system health.
     ├── README.md
     └── scripts/
         └── healthcheck.sh
+# server-health-check
