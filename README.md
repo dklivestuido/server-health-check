@@ -28,3 +28,7 @@ A simple Bash script to inspect basic Linux system health.
 
 ## Learning Progress
 Week 4 - Practicing Git fetch and pull.
+
+## Project Status
+
+This project is used to practice Git branching and pull requests.
