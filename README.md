@@ -25,3 +25,6 @@ A simple Bash script to inspect basic Linux system health.
     └── scripts/
         └── healthcheck.sh
 # server-health-check
+
+## Learning Progress
+Week 4 - Practicing Git fetch and pull.
